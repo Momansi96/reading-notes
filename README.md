@@ -1,12 +1,13 @@
 # reading-notes
-## A growth mindset
+## An Introduction. 
+
+Hello, my name is Mohammed Mahmoud Mansi I'm 24 years old, I have a bachelor's degree in mechanical engineering from Albalqa applied university, I love to learn new things. 
+This is my Github profile: [Github](https://github.com/Momansi96). 
+
+## Table of content: 
+
 [Read01](https://momansi96.github.io/reading-notes/Read01). 
 
-Your **mindset** is important in any activity and especially in learining so having a growth mindset is an advantage and why is that: 
-- A growth mindset will help you as you embraces chalenges and presists through obstacles. 
-- You will learn from the criticism and be inspired by other's success. 
-- Which will help you achieve higher goals. 
+[A growth mindset](). 
 
-![image](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
-And if you need any more information you can check this website: [here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
