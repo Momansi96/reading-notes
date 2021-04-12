@@ -1,6 +1,6 @@
 # reading-notes
 ## A growth mindset
-[Read01]()
+[Read01](https://momansi96.github.io/reading-notes/Read01). 
 
 Your **mindset** is important in any activity and especially in learining so having a growth mindset is an advantage and why is that: 
 - A growth mindset will help you as you embraces chalenges and presists through obstacles. 
