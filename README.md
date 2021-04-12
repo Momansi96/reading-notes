@@ -6,5 +6,8 @@ Your mindset is important in any activity and especially in learining so having 
 - A growth mindset will help you as you embraces chalenges and presists through obstacles. 
 - You will learn from the criticism and be inspired by other's success. 
 - Which will help you achieve higher goals. 
-[image](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
+
+
+
+![image](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
