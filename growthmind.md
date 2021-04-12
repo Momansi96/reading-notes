@@ -1,5 +1,8 @@
 ## A growth mindset
 
+[Return to home page](https://momansi96.github.io/reading-notes/). 
+
+
 Your **mindset** is important in any activity and especially in learining so having a growth mindset is an advantage and why is that: 
 - A growth mindset will help you as you embraces chalenges and presists through obstacles. 
 - You will learn from the criticism and be inspired by other's success. 
