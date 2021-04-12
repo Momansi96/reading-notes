@@ -11,8 +11,10 @@ This is my Github profile: [Github](https://github.com/Momansi96).
 
 ## Table of content: 
 
-|[Read01](https://momansi96.github.io/reading-notes/Read01). |
-------------
+
+| My work |
+----------------------------------------------------------
+|[Read01](https://momansi96.github.io/reading-notes/Read01).|
 |[A growth mindset](https://momansi96.github.io/reading-notes/growthmind)|
 
 
