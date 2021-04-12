@@ -13,9 +13,13 @@ This is my Github profile: [Github](https://github.com/Momansi96).
 
 
 | My work | Link |
+
 |---------|------|
+
 |Read01   |[Read01](https://momansi96.github.io/reading-notes/Read01)|
-|Read02|------|
+
+|Read02|link|
+
 |A growth |[A growth mindset](https://momansi96.github.io/reading-notes/growthmind)|
 
 
