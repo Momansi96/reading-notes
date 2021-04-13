@@ -16,7 +16,7 @@ This is my Github profile: [Github](https://github.com/Momansi96).
 
 |Read01   |[Read01](https://momansi96.github.io/reading-notes/Read01)|
 
-|Read02   |link  |
+|Read02   |[Read02](https://momansi96.github.io/reading-notes/Read02)  |
 
 |A growth |[A growth mindset](https://momansi96.github.io/reading-notes/growthmind)|
 
