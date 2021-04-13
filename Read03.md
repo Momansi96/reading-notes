@@ -72,5 +72,48 @@ Examples of inline elements are <**>, <****>.
 
 ## Process & Design: 
 
+#### Who is the Site For?
+
+Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is, It can be helpful to ask some questions about the people you would expect to be interested in the subject of your site.
+
+#### Why People Visit Your Website? 
+
+Now that you know who your visitors are, you need to consider why they are coming. While some people will simply chance across your website, most will visit for a specific reason, Your content and design should be influenced by the goals of your users.
+
+#### What Your Visitors are Trying to Achieve? 
+
+It is unlikely that you will be able to list every reason why someone visits your site but you are looking for key tasks and motivations. This information can help guide your site designs.
+
+#### What Information Your Visitors Need? 
+
+You know who is coming to your site and why they are coming,so now you need to work out what information they need in order to achieve their goals quickly and effectivel, You may want to offer additional supporting information that you
+think they might find helpful. 
+
+#### How Of ten People Will Visit Your Site? 
+
+Some sites benefit from being updated more frequently than others. Some information (such as news) may be constantly changing, while other content remains relatively static. 
+
+#### Site Maps: 
+
+Now that you know what needs to appear on your site, you can start to organize the information into sections or page , The aim is to create a diagram of the pages that will be used to structure the site. This is known as a site map and it will show how those pages can be grouped.
+
+#### WireFrames: 
+
+A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require, A lot of designers will take the elements that need to appear on each page and start by creating wireframes. This involves
+sketching or shading areas where each element of the page
+will go (such as the logo, primary navigation, headings and main bodies of text, user logins etc).
+
+#### Designing Navigation: 
+
+Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized.
+Good navigation tends to follow these principles: 
+ - Concise. 
+ - Clear. 
+ - Selective. 
+ - Context. 
+ - Interactive. 
+ - Consistent. 
+
+
 
 
