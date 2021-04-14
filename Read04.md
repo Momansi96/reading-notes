@@ -59,7 +59,7 @@ when a step is over, indicating that it should move to the next step.
 You should write comments to explain what your code does.
 They help make your code easier to read and understand. This can help you and others who read your code.
 
-MULTI-LINE COMMENTS: To write a comment that stretches over more than one line, you use a multi-line comment, starting with the (/* characters and ending with the * /) characters.
+MULTI-LINE COMMENTS: To write a comment that stretches over more than one line, you use a multi-line comment, starting with the (* characters and ending with the * /) characters.
 Anything between these characters is not processed· by the JavaScript interpreter.
 
 #### WHAT IS A VARIABLE? 
@@ -102,5 +102,4 @@ underscore (_). It must not start with a number.
 
 6- If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word.
 
-=======
->>>>>>> 86065119b44cd9b17bb5e4269df55f542f1ab14f
+
