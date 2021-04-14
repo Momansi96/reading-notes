@@ -2,6 +2,7 @@
 
 [Return to home page](https://momansi96.github.io/reading-notes/). 
 
+<<<<<<< HEAD
 ## How to wright a script for a web page? 
 
 #### HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER: 
@@ -101,3 +102,5 @@ underscore (_). It must not start with a number.
 
 6- If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word.
 
+=======
+>>>>>>> 86065119b44cd9b17bb5e4269df55f542f1ab14f
