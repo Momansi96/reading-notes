@@ -2,7 +2,7 @@
 
 [Return to home page](https://momansi96.github.io/reading-notes/). 
 
-<<<<<<< HEAD
+
 ## How to wright a script for a web page? 
 
 #### HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER: 
