@@ -45,23 +45,23 @@ top of the browser, above where you usually type in the URL of the page you want
 1- DOCCTYPEs: Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using 
 
 2- Comments in HTML: If you want to add a comment to your code that will not be visible in the user's browser, you
-can add the text between these characters:
+can add the text between these characters.
 <!-- comment goes here -->. 
 
 3- ID Attribute: Every HTML element can carry the id attribute. It is used to uniquely identify that element
 from other elements on the page. Its value should start with
 a letter or an underscore. 
 
-4- Block Elements: Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
+4- Block Elements: Some elements will always appear to start on a new line in the browser window. These are known as block-level elements.
 Examples of block elements are <h1>, <p>, <ul>, and <li>.
 
-5- Inline Elements: Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
+5- Inline Elements: Some elements will always appear to continue on the same line as their neighboring elements. These are known as inline elements.
 Examples of inline elements are <**>, <****>. 
 
 ## HTML5 Layout: 
 
 1- Headers & Footers: The <header> and <footer> elements can be used for:
- - The main header or footer that appears at the top or bottom of every page on the site.
+ - The main header or footer appears at the top or bottom of every page on the site.
  - A header or footer for an individual <article> or <section> within the page.
 
 2- Navigation: The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
@@ -86,10 +86,10 @@ It is unlikely that you will be able to list every reason why someone visits you
 
 #### What Information Your Visitors Need? 
 
-You know who is coming to your site and why they are coming,so now you need to work out what information they need in order to achieve their goals quickly and effectivel, You may want to offer additional supporting information that you
+You know who is coming to your site and why they are coming,so now you need to work out what information they need in order to achieve their goals quickly and effectively, You may want to offer additional supporting information that you
 think they might find helpful. 
 
-#### How Of ten People Will Visit Your Site? 
+#### How Often People Will Visit Your Site? 
 
 Some sites benefit from being updated more frequently than others. Some information (such as news) may be constantly changing, while other content remains relatively static. 
 
@@ -101,7 +101,7 @@ Now that you know what needs to appear on your site, you can start to organize t
 
 A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require, A lot of designers will take the elements that need to appear on each page and start by creating wireframes. This involves
 sketching or shading areas where each element of the page
-will go (such as the logo, primary navigation, headings and main bodies of text, user logins etc).
+will go (such as the logo, primary navigation, headings and main bodies of text, user logins, etc).
 
 #### Designing Navigation: 
 
