@@ -32,6 +32,7 @@ interact ivity. We will aim to keep as much of our JavaScript as possible in sep
 
 #### CREATING A BASIC JAVASCRIPT: 
 
+
 JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script.
 
 1- Create a folder then start up your code editor, A JavaScript file is just a text file (like HTML and CSS
@@ -48,6 +49,7 @@ files are) but it has a .js file extension, so save this file with the name add-
 
 ## BASIC JAVASCRIPT INSTRUCTIONS: 
 
+
 #### STATEMENTS: 
 
 A script is a series of instructions that a computer can follow one-by-one, Each individual instruction or step is known as a statement, Statements should end with a semicolon.
@@ -55,7 +57,9 @@ A script is a series of instructions that a computer can follow one-by-one, Each
 STATEMENTS ARE INSTRUCTIONS AND EACH ONE STARTS ON A NEW LINE The semicolon also tells the JavaScript interpreter
 when a step is over, indicating that it should move to the next step. 
 
+
 #### COMMENTS: 
+
 
 You should write comments to explain what your code does.
 They help make your code easier to read and understand. This can help you and others who read your code.
@@ -63,7 +67,9 @@ They help make your code easier to read and understand. This can help you and ot
 MULTI-LINE COMMENTS: To write a comment that stretches over more than one line, you use a multi-line comment, starting with the (* characters and ending with the * /) characters.
 Anything between these characters is not processed· by the JavaScript interpreter.
 
+
 #### WHAT IS A VARIABLE? 
+
 
 A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
 
@@ -75,7 +81,9 @@ A variable is a good name for this concept because the data stored in a variable
 - Once you created the variable you can tell it what kind of information you want to stor in it. 
 (name = 'Mohammed'; )
 
+
 #### DATA TYPES: 
+
 
 JavaScript distinguishes between numbers, strings, and true or false values known as Booleans.
 
@@ -86,7 +94,9 @@ letters and other characters.
 3- BOOLEAN DATA TYPE: Boolean data types can have one
 of two va lues: true or false. 
 
+
 #### RULES FOR NAMING VARIABLES: 
+
 
 - Here are six rules you must always follow when giving a variable a name: 
 
