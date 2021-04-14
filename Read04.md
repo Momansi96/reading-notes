@@ -29,6 +29,7 @@ BEHAVIOR LAYER. (js files):
 This is where we can change how the page behaves, adding
 interact ivity. We will aim to keep as much of our JavaScript as possible in separate files.
 
+
 #### CREATING A BASIC JAVASCRIPT: 
 
 JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script.
