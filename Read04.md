@@ -3,7 +3,7 @@
 [Return to home page](https://momansi96.github.io/reading-notes/). 
 
 
-## How to wright a script for a web page? 
+## How to write a script for a web page? 
 
 #### HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER: 
 
@@ -24,10 +24,10 @@ The CSS enhances the HTML page with rules that state how
 the HTML content is presented (backgrounds, borders, box
 dimensions, colors, fonts, etc.).
 
-(javascri) pt
+javascript:  
 BEHAVIOR LAYER. (js files):
 This is where we can change how the page behaves, adding
-interact ivity. We will aim to keep as much of our JavaScript as possible in separate files.
+interactivity. We will aim to keep as much of our JavaScript as possible in separate files.
 
 
 #### CREATING A BASIC JAVASCRIPT: 
@@ -40,9 +40,9 @@ files are) but it has a .js file extension, so save this file with the name add-
 
 2- In your code editor, enter the HTML. Save this file with the name add-content.html The HTML <script> element is used to load the JavaScript file into the page. It has an attribute called src, whose value is the path to the script you created. This tells the browser to find and load the script file (just like the src attribute on an <img> tag).
 
-3- Open the HTML file in your browser. You should see that the JavaScript has been added. 
+3- Open the HTML file in your browser. You should see that JavaScript has been added. 
 
-4- view the source code for the page. The source of the web page does not actually show the new element that has been added into the page; it just shows the link to the JavaScript file.
+4- view the source code for the page. The source of the web page does not actually show the new element that has been added to the page; it just shows the link to the JavaScript file.
 
 - JAVASCRIPT RUNS WHERE IT IS FOUND IN THE HTML When the browser comes across a <script> element, it stops to load the script and then checks to see if it needs to do anything.
 
@@ -52,7 +52,7 @@ files are) but it has a .js file extension, so save this file with the name add-
 
 #### STATEMENTS: 
 
-A script is a series of instructions that a computer can follow one-by-one, Each individual instruction or step is known as a statement, Statements should end with a semicolon.
+A script is a series of instructions that a computer can follow one by one, Each individual instruction or step is known as a statement, Statements should end with a semicolon.
 
 STATEMENTS ARE INSTRUCTIONS AND EACH ONE STARTS ON A NEW LINE The semicolon also tells the JavaScript interpreter
 when a step is over, indicating that it should move to the next step. 
@@ -78,7 +78,7 @@ A variable is a good name for this concept because the data stored in a variable
 - Before you use a variable you need to announce that you want to use them, this involves creating a variable and giving it a name. 
 (var name;)
 
-- Once you created the variable you can tell it what kind of information you want to stor in it. 
+- Once you created the variable you can tell it what kind of information you want to store in it. 
 (name = 'Mohammed'; )
 
 
@@ -87,14 +87,14 @@ A variable is a good name for this concept because the data stored in a variable
 
 JavaScript distinguishes between numbers, strings, and true or false values known as Booleans.
 
-1- NUMERIC DATA TYPE:The numeric data type handles
+1- NUMERIC DATA TYPE: The numeric data type handles
 numbers. 
 
 2- STRING DATA TYPE: The strings data type consists of
 letters and other characters.
 
 3- BOOLEAN DATA TYPE: Boolean data types can have one
-of two va lues: true or false. 
+of two values: true or false. 
 
 
 #### RULES FOR NAMING VARIABLES: 
@@ -102,7 +102,7 @@ of two va lues: true or false.
 
 - Here are six rules you must always follow when giving a variable a name: 
 
-1- The name must begin with a letter, dollar sign ($),or an
+1- The name must begin with a letter, dollar sign ($), or an
 underscore (_). It must not start with a number.
 
 2- The name can contain letters, numbers, dollar sign ($), or an underscore (_). Note that you must not use a dash(-) or a period (.) in a variable name. 
