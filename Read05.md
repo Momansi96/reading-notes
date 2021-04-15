@@ -2,7 +2,7 @@
 
 [Return to home page](https://momansi96.github.io/reading-notes/).
 
-<<<<<<< HEAD
+
 ## Operators 
 
 #### Comparison operators: 
@@ -46,7 +46,7 @@ Loops check a condition, it returns true a code block will run, then the conditi
 
 - There are several types of loops such as: 
 
-1- 
+1-  
 
 
 
@@ -55,5 +55,4 @@ Loops check a condition, it returns true a code block will run, then the conditi
 
 
 
-=======
->>>>>>> 5c619a2d04d5b2d4c113737ec3072de7a9412b97
+
