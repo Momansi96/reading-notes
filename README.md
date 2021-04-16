@@ -22,6 +22,10 @@ This is my Github profile: [Github](https://github.com/Momansi96).
 
 |Read04   |[Read04](https://momansi96.github.io/reading-notes/Read04)  |
 
+|Read04b  |[Read04b](https://momansi96.github.io/reading-notes/Read04b) |
+
+|Read05   |[Read05](https://momansi96.github.io/reading-notes/Read05)  |
+
 |A growth |[A growth mindset](https://momansi96.github.io/reading-notes/growthmind)|
 
 
