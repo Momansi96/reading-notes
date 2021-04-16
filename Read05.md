@@ -46,7 +46,17 @@ Loops check a condition, it returns true a code block will run, then the conditi
 
 - There are several types of loops such as: 
 
-1-  
+1- For loop: it is used to run a code specific number of times, the condition is usually a counter which is used to tell how many times the loop should run.   
+
+A for loop is consisted of three parts which is: 
+
+- Initialization: create a vaariable and sit it at a starting point it is usually referred to as "i". 
+
+- Condition: the loop should continue to run until the counter reaches a specified number. 
+
+- Update: every time the loop has run there is an updat on the variable. 
+
+2- While loop: if you don't know how many times you should run the loop a while loop is the best to use. 
 
 
 
