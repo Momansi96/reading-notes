@@ -4,6 +4,7 @@
 
 ## Introduction to javascript: 
 
+<<<<<<< HEAD
 JavaScript can be used in browsers to make websites more interactive, interesting, and user-friendly you will need to know how to build web pages using HTML and CSS. Beyond that, no prior experience with programming is necessary. 
 
 - Learning to program with JavaScript involves: 
@@ -100,4 +101,6 @@ When you call the function that has parameters, you specify the value it should 
 
 
 
+=======
+>>>>>>> 9aea82f9f62bc6ca7cd38b079e0a65047498562c
 
