@@ -8,7 +8,7 @@
 
 - BLOCK & INLINE ELEMENTS: 
 
- 1- Block level elements look like they start on a new line.
+ 1- Block-level elements look like they start on a new line.
 
  2- Inline elements flow within the text and do not start on a new line. 
 
@@ -33,7 +33,7 @@ document. (* {}).
 4- ID Selector: Matches an element whose id attribute has a value that matches the one specified after the pound or hash symbol.  (#introduction {}). 
 
 
-#### How Css Rules Cascade? 
+#### How CSS Rules Cascade? 
 
 If there are two or more rules that apply to the same element, it is important to understand which will take precedence: 
 
@@ -51,9 +51,9 @@ If there are two or more rules that apply to the same element, it is important t
 
 The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways:
 
-1- rgb values: These express colors in terms of how much red, green and blue are used to make it up. For example: rgb(100,100,90)
+1- RGB values: These express colors in terms of how much red, green, and blue are used to make it up. For example: rgb(100,100,90)
  
-2- hex codes: These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash #sign. For example: #ee3e80
+2- hex codes: These are six-digit codes that represent the amount of red, green, and blue in a color, preceded by a pound or hash #sign. For example: #ee3e80
 
 3- color names: There are 147 predefined color names that are recognized by browsers.
 
@@ -69,7 +69,7 @@ When picking foreground and background colors, it is important to ensure that th
 
 1- Low Contrast: Text is harder to read when there is low contrast between background and foreground colors. 
 
-2- High Contrast: Text is easier to read when there is higher contrast between background and foreground colors.
+2- High Contrast: Text is easier to read when there is a higher contrast between background and foreground colors.
 
 3- Medium Contrast: For long spans of text, reducing the contrast a little bit improves readability.
 
