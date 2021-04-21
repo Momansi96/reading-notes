@@ -87,6 +87,82 @@ An IDE (Integrated Development Environment) is really a suite of different softw
 
 ## The Command Line!
 
+A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+
+The command line typically presents you with a prompt. As you type, it will be displayed after the prompt. Most of the time you will be issuing commands. 
+
+Within a terminal you have what is known as a shell. This is a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you. There are various shells available but the most common one is called bash which stands for Bourne again shell. 
+
+ When you enter commands, they are actually stored in a history. You can traverse this history using the up and down arrow keys. So don't bother re-typing out commands you have previously entered, you can usually just hit the up arrow a few times. You can also edit these commands using the left and right arrow keys to move the cursor where you want.
+
+ ## Basic Navigation!
+
+
+- The first command we are going to learn is pwd which stands for Print Working Directory. The command does just that. It tells you what your current or present working directory is.
+
+- It's one thing to know where we are. Next we'll want to know what is there. The command for this task is ls. It's short for list. 
+
+#### Paths: 
+
+In the previous commands we started touching on something called a path. Whenever we refer to either a file or directory on the command line, we are in fact referring to a path. ie. A path is a means to get to a particular file or directory on the system.
+
+- There are 2 types of paths we can use, Whenever we refer to a file or directory we are using one of these paths. Whenever we refer to a file or directory, we can, in fact, use either type of path: 
+
+1- Absolute paths: 
+
+They specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / ). 
+
+2- Relative paths: 
+
+They specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
+
+#### Let's Move Around a Bit: 
+
+- In order to move around in the system we use a command called cd which stands for change directory, If you run the command cd without any arguments then it will always take you back to your home directory.
+
+
+## More About Files!
+
+- Ok, the first thing we need to appreciate with linux is that under the hood, everything is actually a file. A text file is a file, a directory is a file, your keyboard is a file (one that the system reads from only), your monitor is a file (one that the system writes to only) etc. To begin with, this won't affect what we do too much but keep it in mind as it helps with understanding the behaviour of Linux as we manage files and directories.
+
+- This one can sometimes be hard to get your head around but as you work through the sections it will start to make more sense. A file extension is normally a set of 2 - 4 characters after a full stop at the end of a file, which denotes what type of file it is. The following are common extensions:
+
+1- file.exe - an executable file, or program.
+
+2- file.txt - a plain text file.
+
+3-file.png, file.gif, file.jpg - an image.
+
+- In other systems such as Windows the extension is important and the system uses it to determine what type of file it is. Under Linux the system actually ignores the extension and looks inside the file to determine what type of file it is. So for instance I could have a file myself.png which is a picture of me. I could rename the file to myself.txt or just myself and Linux would still happily treat the file as an image file. As such it can sometimes be hard to know for certain what type of file a particular file is. Luckily there is a command called file which we can use to find this out.
+
+- This is very important and a common source of problems for people new to Linux. Other systems such as Windows are case insensitive when it comes to referring to files. Linux is not like this. As such it is possible to have two or more files and directories with the same name but letters of different case.
+
+- Spaces in file and directory names are perfectly valid but we need to be a little careful with them. As you would remember, a space on the command line is how we seperate items. They are how we know what is the program name and can identify each command line argument. 
+
+- To wish "file name" to be seen as a single command line argument. There are two ways to go about this, either way is just as valid: 
+
+1- Quotes: 
+
+The first approach involves using quotes around the entire item. You may use either single or double quotes. Anything inside quotes is considered a single item.
+
+2- Escape Characters: 
+
+Another method is to use what is called an escape character, which is a backslash ( \ ). What the backslash does is escape (or nullify) the special meaning of the next character.
+
+- Linux actually has a very simple and elegant mechanism for specifying that a file or directory is hidden. If the file or directory's name begins with a . (full stop) then it is considered to be hidden. You don't even need a special command or action to make a file hidden. Files and directories may be hidden for a variety of reasons. Configuration files for a particular user (which are normally stored in their home directory) are hidden for instance so that they don't get in the way of the user doing their everyday tasks.
+
+- To make a file or directory hidden all you need to do is create the file or directory with it's name beginning with a . or rename it to be as such. Likewise you may rename a hidden file to remove the . and it will become unhidden. The command ls which we have seen in the previous section will not list hidden files and directories by default. We may modify it by including the command line option -a so that it does show hidden files and directories.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
