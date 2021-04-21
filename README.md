@@ -30,6 +30,8 @@ This is my Github profile: [Github](https://github.com/Momansi96).
 
 |Read07   |[Read07](https://momansi96.github.io/reading-notes/Read07)  |
 
+|Read09   |[Read09](https://momansi96.github.io/reading-notes/Read09)  |
+
 |A growth mindset |[A growth mindset](https://momansi96.github.io/reading-notes/growthmind)|
 
 
