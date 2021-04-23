@@ -7,7 +7,7 @@
 
 | My work | Link |
 
-|Read01   |[Read01](https://momansi96.github.io/reading-notes/Code%20201/Read01)|
+|Read01   |[Read01](https://momansi96.github.io/reading-notes/Code%20201/Class01)|
 
 
 
