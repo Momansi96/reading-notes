@@ -1,4 +1,4 @@
-# reading-notes
+# reading-notes for Code 102
 ## An Introduction. 
 
 Hello, my name is Mohammed Mahmoud Mansi I'm 24 years old, I have a bachelor's degree in mechanical engineering from Albalqa applied university, I love to learn new things.
