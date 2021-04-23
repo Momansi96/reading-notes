@@ -13,7 +13,7 @@ newspaper.
 The structure is very similar then a news story is viewed
 online (although it may also feature audio or video).
 
-#### HTM L Describes the Structure of Pages: 
+#### HTML Describes the Structure of Pages: 
 
 To describe the structure of a web page, we add code to the words we want to appear on the page.
 The HTML code is made up of characters that live inside angled brackets — these are called HTML elements. 
