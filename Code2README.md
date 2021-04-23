@@ -1,5 +1,7 @@
 # reading-notes for Code 201
 
+[Return to home page](https://momansi96.github.io/reading-notes/).
+
 
 ## Table of content: 
 

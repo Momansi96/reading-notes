@@ -9,6 +9,9 @@ My Email is "mansimohammed8@gmail.com".
 
 This is my Github profile: [Github](https://github.com/Momansi96). 
 
+To go to [Code 201 Reading notes](https://momansi96.github.io/reading-notes/Code2README). 
+
+
 ## Table of content: 
 
 
