@@ -9,8 +9,6 @@ My Email is "mansimohammed8@gmail.com".
 
 This is my Github profile: [Github](https://github.com/Momansi96). 
 
-To go to [Code 201 Reading notes](https://momansi96.github.io/reading-notes/Code2README). 
-
 
 ## Table of content: 
 
@@ -45,7 +43,7 @@ To go to [Code 201 Reading notes](https://momansi96.github.io/reading-notes/Code
 
 | My work | Link |
 
-|Read01   |[Read01](https://momansi96.github.io/reading-notes/Code%20201/Class01)|
+|Read01   |[Read01](https://momansi96.github.io/reading-notes/Class01)|
 
 
 
