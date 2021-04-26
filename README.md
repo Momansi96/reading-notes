@@ -14,28 +14,38 @@ To go to [Code 201 Reading notes](https://momansi96.github.io/reading-notes/Code
 
 ## Table of content: 
 
+### Code 102
+
 
 | My work | Link |
 
-|Read01   |[Read01](https://momansi96.github.io/reading-notes/Code%20102/Read01)|
+|Read01   |[Read01](https://momansi96.github.io/reading-notes/Read01)  |
 
-|Read02   |[Read02](https://momansi96.github.io/reading-notes/Code%20102/Read02)  |
+|Read02   |[Read02](https://momansi96.github.io/reading-notes/Read02)  |
 
-|Read03   |[Read03](https://momansi96.github.io/reading-notes/Code%20102/Read03)  |
+|Read03   |[Read03](https://momansi96.github.io/reading-notes/Read03)  |
 
-|Read04a  |[Read04](https://momansi96.github.io/reading-notes/Code%20102/Read04)  |
+|Read04a  |[Read04](https://momansi96.github.io/reading-notes/Read04)  |
 
-|Read04b  |[Read04b](https://momansi96.github.io/reading-notes/Code%20102/Read04b) |
+|Read04b  |[Read04b](https://momansi96.github.io/reading-notes/Read04b) |
 
-|Read05   |[Read05](https://momansi96.github.io/reading-notes/Code%20102/Read05)  |
+|Read05   |[Read05](https://momansi96.github.io/reading-notes/Read05)  |
 
-|Read06   |[Read06](https://momansi96.github.io/reading-notes/Code%20102/Read06)  |
+|Read06   |[Read06](https://momansi96.github.io/reading-notes/Read06)  |
 
-|Read07   |[Read07](https://momansi96.github.io/reading-notes/Code%20102/Read07)  |
+|Read07   |[Read07](https://momansi96.github.io/reading-notes/Read07)  |
 
-|Read09   |[Read09](https://momansi96.github.io/reading-notes/Code%20102/Read09)  |
+|Read09   |[Read09](https://momansi96.github.io/reading-notes/Read09)  |
 
-|A growth mindset |[A growth mindset](https://momansi96.github.io/reading-notes/Code%20102/growthmind)|
+|A growth mindset |[A growth mindset](https://momansi96.github.io/reading-notes/growthmind)|
+
+
+
+### Code 201 
+
+| My work | Link |
+
+|Read01   |[Read01](https://momansi96.github.io/reading-notes/Code%20201/Class01)|
 
 
 

@@ -1,6 +1,6 @@
 # Class01
 
-[Return to home page](https://momansi96.github.io/reading-notes/Code2README). 
+[Return to home page](https://momansi96.github.io/reading-notes/). 
 
 
 ## Structure:
