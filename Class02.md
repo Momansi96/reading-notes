@@ -9,6 +9,7 @@
 
 HTML has six "levels" of headings:
 
+
 #### Paragraphs: 
 
 To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag. By default, a browser will show each paragraph on a new line with some space between it and any subsequent paragraphs.
@@ -259,11 +260,11 @@ Comparison operators usually return single values, logical operators allowes you
 
 3- (!) "logical not", this operator takes the boolean and inverts it. 
 
-## Loops
+#### IF statements: 
 
-Loops check a condition, it returns true a code block will run, then the condition will be checked again and if it still return true the code block will run again, it repeates until the condition returns false.  
+IF statements check a condition, it returns true a code block will run, if it's false the code will move to the next line. 
 
-- There are several types of loops such as: 
+- There are several types of statements such as: 
 
 1- IF statement: this statement checks a condition if the condition is true, any statements in the code block below it will be executed.  
 
