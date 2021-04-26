@@ -9,12 +9,6 @@
 
 HTML has six "levels" of headings:
 
-<h1> is used for main headings. 
-
-<h2> is used for subheadings. 
-
-If there are further sections under the subheadings then the <h3> element is used, and so on.
-
 #### Paragraphs: 
 
 To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag. By default, a browser will show each paragraph on a new line with some space between it and any subsequent paragraphs.
