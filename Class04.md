@@ -86,5 +86,51 @@ To indicate where a box should be positioned, you may also need to use box offse
 
 ## Functions, Methods, and Objects: 
 
+#### WHAT IS A FUNCTION? 
+
+Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). 
+
+* Declaring a function: 
+
+To create a function, you give it a name and then wright the statements needed to achieve its task inside the curly braces, this is called decraling a function. 
+
+* Calling a function: 
+
+Having declared the function, you can execute all the statements inside it using only one line of code, this is called calling a function. 
+
+* Declaring a function that need information: 
+
+sometimes a function needs specific information to perform its task, in such cases you need to add the parameters when you declare the function, inside the function the parameters act like variables. 
+
+* Calling a function that need information:
+
+When you call the function that has parameters, you specify the value it should use in the parantheses that follows it's name, the values are called arguments. 
+
+* Getting a single value out of a function: 
+
+some functions return information to the code that called them, for example when they perform a calculation. 
+
+* Getting multiple value out of a function: 
+
+Functions can return more than one value using an array. 
+
+#### ANONYMOUS FUNCTIONS & FUNCTION EXPRESSIONS: 
+
+Expressions produce a value. They can be used where values are expected. If a function is placed where a browser expects to see an expression, then it gets treated as an expression, and it is known as a function expression. In function expressions, the name is usually omitted. a function with no name is called an anonymous function. 
+
+In a function expression, the function is not processed until the interpreter gets to that statement. This means you cannot call this function before the interpreter has discovered it. It also means that any code that appears up to that point could potentially alter what goes on inside this function. 
+
+#### VARIABLE SCOPE: 
+
+The location where you declare a variable will affect where it can be used within your code. If you declare it within a function, it can only be used within that function. This is known as the variable's scope. 
+
+* LOCAL VARIABLES: When a variable is created inside a function using the var keyword, it can only be used in that function. It is called a local variable or function-level variable. It cannot be accessed outside of the function in which it was declared.
+
+* GLOBAL VARIABLES: If you create a variable outside of a function, then it can be used anywhere within the script. It is called a global variable and has global scope.
+
+#### HOW MEMORY & VARIABLES WORK: 
+
+Global variables use more memory. The browser has to remember them for as long as the web page using them is loaded. Local variables are only remembered during the period of time that a function is being executed. 
+
 
 
