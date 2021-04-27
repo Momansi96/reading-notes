@@ -56,5 +56,35 @@ If you want to link to a specific part of a different page (whether on your own 
 
 ## Layout: 
 
+#### Key Concepts in Positioning Elements: 
+
+* Building Blocks: CSS treats each HTML element as if it is in its own box. This box will either be a: 
+ 
+  1. Block-level elements: start on a new line. 
+  2. Inline elements: flow in between surrounding text. 
+
+* Containing Elements: If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element. 
+
+#### Controlling the Position of Elements: 
+
+CSS has the following positioning schemes that allow you to control the layout of a page: 
+
+1. normal flow: Every block-level element appears on a new line, causing each item to appear lower down the page than the previous one. 
+
+2. relative positioning: This moves an element from the position it would be in normal flow, shifting it to the top, right, bottom, or left of where it would have been placed.   
+
+3. absolute positioning: This positions the element in relation to its containing element.
+
+You specify the positioning scheme using the position property in CSS. You can also float elements using the float property.
+
+To indicate where a box should be positioned, you may also need to use box offset properties to tell the browser how far from the top or bottom and left or right it should be placed. 
+
+1. Fixed Positioning: This is a form of absolute positioning that positions the element in relation to the browser window, as opposed to the containing element. Elements with fixed positioning do not affect the position of surrounding elements and they do not move when the user scrolls up or down the page.
+
+2. Floating Elements: Floating an element allows you to take that element out of normal flow and position it to the far left or right of a containing box. The floated element becomes a block-level element around which other content can flow. 
+
+
+## Functions, Methods, and Objects: 
+
 
 
