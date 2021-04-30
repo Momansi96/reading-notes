@@ -51,4 +51,4 @@ This is my Github profile: [Github](https://github.com/Momansi96).
 
 |Read04   |[Read04](https://momansi96.github.io/reading-notes/Class04) |
 
-|Read05   |[Read05]()
+|Read05   |[Read05](https://momansi96.github.io/reading-notes/Class05) |
