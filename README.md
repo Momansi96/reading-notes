@@ -64,3 +64,5 @@ This is my Github profile: [Github](https://github.com/Momansi96).
 |Read10   |[Read10](https://momansi96.github.io/reading-notes/Class10) |
 
 |Read11   |[Read11](https://momansi96.github.io/reading-notes/Class11) |
+
+|Read12   |[Read12](https://momansi96.github.io/reading-notes/Class12) |
