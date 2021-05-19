@@ -68,3 +68,8 @@ This is my Github profile: [Github](https://github.com/Momansi96).
 |Read12   |[Read12](https://momansi96.github.io/reading-notes/Class12) |
 
 |Read13   |[Read13](https://momansi96.github.io/reading-notes/Class13) |
+
+|Read14a  |[Read14a](https://momansi96.github.io/reading-notes/Class14a) |
+
+|Read14b  |[Read14b](https://momansi96.github.io/reading-notes/Class14b) |
+
