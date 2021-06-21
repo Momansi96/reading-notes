@@ -80,4 +80,5 @@ This is my Github profile: [Github](https://github.com/Momansi96).
 
 |Read01   |[Read01](https://momansi96.github.io/reading-notes/Class301) |
 
+|Read02   |[Read02](https://momansi96.github.io/reading-notes/Class302) |
 
