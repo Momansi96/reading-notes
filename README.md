@@ -78,7 +78,8 @@ This is my Github profile: [Github](https://github.com/Momansi96).
 
 | My work | Link |
 
-|Read01   |[Read01](https://momansi96.github.io/reading-notes/Class301) |
+|Class01   |[Class01](https://momansi96.github.io/reading-notes/Class301) |
 
-|Read02   |[Read02](https://momansi96.github.io/reading-notes/Class302) |
+|Class02   |[Class02](https://momansi96.github.io/reading-notes/Class302) |
 
+|Class03   |[Class03](https://momansi96.github.io/reading-notes/Class303) |
