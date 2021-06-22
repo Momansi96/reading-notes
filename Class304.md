@@ -22,6 +22,7 @@ Since the value attribute is set on our form element, the displayed value will a
 
 * Why would we use a ternary operator?
 
+We use the ternary operator to simplify our if-else statements that are used to assign values to variables.
 
 
 * Rewrite the following statement using a ternary statement:
