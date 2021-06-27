@@ -31,7 +31,7 @@ Version '6.14.4'.
 
 * What command would you type to install a library/package called ‘jshint’?
 
-npm install <jshint>. 
+npm install `<jshint>`. 
 
 * What is node used for?
 
