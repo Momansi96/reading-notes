@@ -95,3 +95,6 @@ This is my Github profile: [Github](https://github.com/Momansi96).
 |Class08   |[Class08](https://momansi96.github.io/reading-notes/Class308) |
 
 |Class09   |[Class09](https://momansi96.github.io/reading-notes/Class309) |
+
+|Class10   |[Class10](https://momansi96.github.io/reading-notes/Class310) |
+
