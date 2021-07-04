@@ -99,3 +99,6 @@ This is my Github profile: [Github](https://github.com/Momansi96).
 |Class10   |[Class10](https://momansi96.github.io/reading-notes/Class310) |
 
 |Class11   |[Class11](https://momansi96.github.io/reading-notes/Class311) |
+
+|Class12   |[Class12](https://momansi96.github.io/reading-notes/Class312) |
+
