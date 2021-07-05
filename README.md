@@ -102,3 +102,5 @@ This is my Github profile: [Github](https://github.com/Momansi96).
 
 |Class12   |[Class12](https://momansi96.github.io/reading-notes/Class312) |
 
+|Class13   |[Class13](https://momansi96.github.io/reading-notes/Class313) |
+
